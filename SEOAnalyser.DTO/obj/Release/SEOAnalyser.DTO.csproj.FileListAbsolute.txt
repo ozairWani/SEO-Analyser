@@ -1,0 +1,4 @@
+D:\uzair\SEOAnalyser\SEOAnalyser.DTO\bin\Release\SEOAnalyser.DTO.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.DTO\bin\Release\SEOAnalyser.DTO.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.DTO\obj\Release\SEOAnalyser.DTO.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.DTO\obj\Release\SEOAnalyser.DTO.pdb

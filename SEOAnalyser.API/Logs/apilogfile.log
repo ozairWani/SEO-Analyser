@@ -1,0 +1,82 @@
+2019-02-25 00:36:56,189 [7] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 12:36:56 AM
+2019-02-25 00:38:07,662 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 12:38:07 AM
+2019-02-25 00:39:12,377 [7] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 12:39:12 AM
+2019-02-25 00:39:33,831 [10] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 12:39:33 AM
+2019-02-25 00:40:03,435 [7] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 12:40:03 AM
+2019-02-25 00:40:29,470 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 12:40:29 AM
+2019-02-25 00:40:52,287 [11] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 12:40:52 AM
+2019-02-25 00:54:58,041 [17] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 12:54:58 AM
+2019-02-25 00:54:58,052 [17] ERROR SEOAnalyser.Logger.TextLogger - Post Api Error {method = Analyse}
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Text.RegularExpressions.Regex.IsMatch(String input)
+   at System.Text.RegularExpressions.Regex.IsMatch(String input, String pattern, RegexOptions options)
+   at SEOAnalyser.Utilities.Extensions.IsURL(String value) in D:\uzair\SEOAnalyser\SEOAnalyser.Utilities\Extensions.cs:line 17
+   at SEOAnlayser.Components.Providers.Implementation.SEOBuilderFactory.Build(String searchText) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Providers\Implementation\SEOBuilderFactory.cs:line 22
+   at SEOAnlayser.Components.Manager.Implementation.AnalyserManager.GetDetails(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Manager\Implementation\AnalyserManager.cs:line 27
+   at SEOAnalyserAPI.Controllers.SEOAnalyserController.Analyse(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnalyser.API\Controllers\SEOAnalyserController.cs:line 31
+2019-02-25 00:59:14,216 [21] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 12:59:14 AM
+2019-02-25 00:59:14,217 [21] ERROR SEOAnalyser.Logger.TextLogger - Post Api Error {method = Analyse}
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at SEOAnlayser.Components.Providers.Implementation.HtmlAnalyserProvider.GetExternalLinks(String searchText) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Providers\Implementation\HtmlAnalyserProvider.cs:line 25
+   at SEOAnlayser.Components.Manager.Implementation.AnalyserManager.GetDetails(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Manager\Implementation\AnalyserManager.cs:line 28
+   at SEOAnalyserAPI.Controllers.SEOAnalyserController.Analyse(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnalyser.API\Controllers\SEOAnalyserController.cs:line 31
+2019-02-25 01:05:27,042 [24] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:05:27 AM
+2019-02-25 01:05:27,043 [24] ERROR SEOAnalyser.Logger.TextLogger - Post Api Error {method = Analyse}
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Text.RegularExpressions.Regex.IsMatch(String input)
+   at System.Text.RegularExpressions.Regex.IsMatch(String input, String pattern, RegexOptions options)
+   at SEOAnalyser.Utilities.Extensions.IsURL(String value) in D:\uzair\SEOAnalyser\SEOAnalyser.Utilities\Extensions.cs:line 17
+   at SEOAnlayser.Components.Providers.Implementation.SEOBuilderFactory.Build(String searchText) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Providers\Implementation\SEOBuilderFactory.cs:line 22
+   at SEOAnlayser.Components.Manager.Implementation.AnalyserManager.GetDetails(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Manager\Implementation\AnalyserManager.cs:line 27
+   at SEOAnalyserAPI.Controllers.SEOAnalyserController.Analyse(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnalyser.API\Controllers\SEOAnalyserController.cs:line 31
+2019-02-25 01:06:25,170 [25] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:06:25 AM
+2019-02-25 01:06:25,170 [25] ERROR SEOAnalyser.Logger.TextLogger - Post Api Error {method = Analyse}
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at SEOAnlayser.Components.Providers.Implementation.HtmlAnalyserProvider.GetExternalLinks(String searchText) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Providers\Implementation\HtmlAnalyserProvider.cs:line 25
+   at SEOAnlayser.Components.Manager.Implementation.AnalyserManager.GetDetails(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Manager\Implementation\AnalyserManager.cs:line 28
+   at SEOAnalyserAPI.Controllers.SEOAnalyserController.Analyse(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnalyser.API\Controllers\SEOAnalyserController.cs:line 31
+2019-02-25 01:06:45,232 [19] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:06:45 AM
+2019-02-25 01:07:03,996 [21] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:07:03 AM
+2019-02-25 01:07:12,831 [21] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:07:12 AM
+2019-02-25 01:07:26,207 [19] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:07:26 AM
+2019-02-25 01:07:42,448 [21] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:07:42 AM
+2019-02-25 01:07:42,449 [21] ERROR SEOAnalyser.Logger.TextLogger - Post Api Error {method = Analyse}
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at SEOAnlayser.Components.Providers.Implementation.HtmlAnalyserProvider.GetExternalLinks(String searchText) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Providers\Implementation\HtmlAnalyserProvider.cs:line 25
+   at SEOAnlayser.Components.Manager.Implementation.AnalyserManager.GetDetails(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Manager\Implementation\AnalyserManager.cs:line 28
+   at SEOAnalyserAPI.Controllers.SEOAnalyserController.Analyse(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnalyser.API\Controllers\SEOAnalyserController.cs:line 31
+2019-02-25 01:08:16,004 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:08:15 AM
+2019-02-25 01:08:27,206 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:08:27 AM
+2019-02-25 01:08:54,842 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:08:54 AM
+2019-02-25 01:08:59,792 [6] ERROR SEOAnalyser.Logger.TextLogger - Post Api Error {method = Analyse}
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at SEOAnlayser.Components.Providers.Implementation.HtmlAnalyserProvider.GetExternalLinks(String searchText) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Providers\Implementation\HtmlAnalyserProvider.cs:line 25
+   at SEOAnlayser.Components.Manager.Implementation.AnalyserManager.GetDetails(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Manager\Implementation\AnalyserManager.cs:line 28
+   at SEOAnalyserAPI.Controllers.SEOAnalyserController.Analyse(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnalyser.API\Controllers\SEOAnalyserController.cs:line 31
+2019-02-25 01:09:19,811 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:09:19 AM
+2019-02-25 01:10:16,235 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:10:16 AM
+2019-02-25 01:10:47,673 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:10:47 AM
+2019-02-25 01:11:25,346 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:11:25 AM
+2019-02-25 01:11:38,101 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:11:38 AM
+2019-02-25 01:13:01,271 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:13:01 AM
+2019-02-25 01:14:00,858 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:14:00 AM
+2019-02-25 01:14:02,962 [6] ERROR SEOAnalyser.Logger.TextLogger - Post Api Error {method = Analyse}
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at SEOAnlayser.Components.Providers.Implementation.WebParserProvider.ParseWebToText(Uri url) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Providers\Implementation\WebParserProvider.cs:line 33
+   at SEOAnlayser.Components.Providers.Implementation.HtmlAnalyserProvider.GetExternalLinks(String searchText) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Providers\Implementation\HtmlAnalyserProvider.cs:line 25
+   at SEOAnlayser.Components.Manager.Implementation.AnalyserManager.GetDetails(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Manager\Implementation\AnalyserManager.cs:line 28
+   at SEOAnalyserAPI.Controllers.SEOAnalyserController.Analyse(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnalyser.API\Controllers\SEOAnalyserController.cs:line 31
+2019-02-25 01:14:19,413 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:14:19 AM

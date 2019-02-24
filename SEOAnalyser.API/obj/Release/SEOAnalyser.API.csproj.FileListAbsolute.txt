@@ -1,0 +1,118 @@
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\csc.exe
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\System.Collections.Immutable.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\vbc.exe
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\VBCSCompiler.exe
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\roslyn\VBCSCompiler.exe.config
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyserAPI.dll.config
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyserAPI.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyserAPI.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\CommonServiceLocator.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Newtonsoft.Json.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyser.Utilities.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\SEOAnlayser.Components.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\System.Net.Http.Formatting.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\System.ValueTuple.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\System.Web.Http.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\System.Web.Http.WebHost.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.Abstractions.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.Configuration.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.Container.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.Interception.Configuration.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.Interception.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.RegistrationByConvention.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.ServiceLocation.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.WebApi.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyser.Utilities.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\SEOAnlayser.Components.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\CommonServiceLocator.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Newtonsoft.Json.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Newtonsoft.Json.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\System.ValueTuple.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.Abstractions.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.Configuration.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.Container.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.Interception.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.Interception.Configuration.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.RegistrationByConvention.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Unity.ServiceLocation.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\System.Net.Http.Formatting.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\System.Web.Http.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\System.Web.Http.WebHost.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\obj\Release\SEOAnalyser.API.csprojResolveAssemblyReference.cache
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\obj\Release\SEOAnalyserAPI.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\obj\Release\SEOAnalyserAPI.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Microsoft.Web.Infrastructure.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\Swashbuckle.Core.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.API\bin\WebActivatorEx.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\csc.exe
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\System.Collections.Immutable.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\vbc.exe
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\VBCSCompiler.exe
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\roslyn\VBCSCompiler.exe.config
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyserAPI.dll.config
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyserAPI.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyserAPI.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\CommonServiceLocator.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Microsoft.Web.Infrastructure.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Newtonsoft.Json.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyser.Utilities.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\SEOAnlayser.Components.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Swashbuckle.Core.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\System.Net.Http.Formatting.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\System.ValueTuple.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\System.Web.Http.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\System.Web.Http.WebHost.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.Abstractions.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.Configuration.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.Container.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.Interception.Configuration.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.Interception.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.RegistrationByConvention.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.ServiceLocation.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.WebApi.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\WebActivatorEx.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\HtmlAgilityPack.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyser.Utilities.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\SEOAnlayser.Components.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\CommonServiceLocator.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Newtonsoft.Json.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Newtonsoft.Json.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\System.ValueTuple.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.Abstractions.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.Configuration.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.Container.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.Interception.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.Interception.Configuration.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.RegistrationByConvention.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\Unity.ServiceLocation.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\System.Net.Http.Formatting.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\System.Web.Http.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\System.Web.Http.WebHost.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\HtmlAgilityPack.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\obj\Release\SEOAnalyser.API.csprojResolveAssemblyReference.cache
+D:\uzair\SEOAnalyser\SEOAnalyser.API\obj\Release\SEOAnalyserAPI.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\obj\Release\SEOAnalyserAPI.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyser.DTO.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.API\bin\SEOAnalyser.DTO.pdb

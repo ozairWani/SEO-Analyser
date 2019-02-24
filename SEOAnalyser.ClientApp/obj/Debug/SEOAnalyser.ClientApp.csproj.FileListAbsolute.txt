@@ -1,0 +1,110 @@
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\csc.exe
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\vbc.exe
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\VBCSCompiler.exe
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.ClientApp.dll.config
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.ClientApp.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.ClientApp.pdb
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Helpers.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Mvc.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Razor.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Deployment.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Razor.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Razor.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Deployment.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Razor.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Helpers.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Mvc.xml
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.csprojResolveAssemblyReference.cache
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.dll
+D:\Personal\R&D Projects\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.pdb
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\csc.exe
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\vbc.exe
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.ClientApp.dll.config
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.ClientApp.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.ClientApp.pdb
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Helpers.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Mvc.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Razor.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Razor.xml
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.xml
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Helpers.xml
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Mvc.xml
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.csprojAssemblyReference.cache
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.csproj.CopyComplete
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.dll
+C:\Users\biahw\Downloads\SEOAnalyser\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\csc.exe
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\System.Collections.Immutable.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\vbc.exe
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\VBCSCompiler.exe
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\roslyn\VBCSCompiler.exe.config
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.ClientApp.dll.config
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.ClientApp.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.ClientApp.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\Microsoft.Web.Infrastructure.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Helpers.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Mvc.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Razor.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Deployment.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Razor.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Razor.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Deployment.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Webpages.Razor.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Helpers.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\System.Web.Mvc.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.csprojResolveAssemblyReference.cache
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\obj\Debug\SEOAnalyser.ClientApp.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\Newtonsoft.Json.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\Newtonsoft.Json.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\Newtonsoft.Json.xml
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.DTO.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.DTO.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\log4net.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.Logger.dll
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\SEOAnalyser.Logger.pdb
+D:\uzair\SEOAnalyser\SEOAnalyser.ClientApp\bin\log4net.xml
