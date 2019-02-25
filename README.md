@@ -39,8 +39,23 @@ The information will be show in each respective tab e.g, Words Count,Meta Tags a
   
  - **Swashbuckle.Core**: Seamlessly adds a Swagger to WebApi projects!
   
+  
+ **Key Concepts used**
+ 
+   - **Design pattern**
+   - **Construct Dependency pattern**
+   - **Separation of Concern**
+   - **SOLID Principles**
+   
+ 
+ - **SEOAnlayser.Components** : Its Build using the factory **Design pattern**  and **Construct Dependency** which makes it easy for unit testing and following the concept of decoupled architecture.
+ 
+ - **SEOAnalyser.ClientApp** : Its build using **Asp.Net MVC Framework**
+ 
+ - **SEOAnalyser.API** : Its build using using **Asp.Net Web API FrameWork**
+   
 
-**SEO Analyser API**
+**Testing SEO Analyser API using Swagger**
 
 localHost :http://www.seoanalyser.com:8080/swagger/ui/index#!
 
