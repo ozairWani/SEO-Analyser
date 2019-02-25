@@ -30,3 +30,35 @@ D:\uzair\SEOAnalyser\SEOAnalyserComponents.Test\bin\Debug\nunit.framework.pdb
 D:\uzair\SEOAnalyser\SEOAnalyserComponents.Test\bin\Debug\nunit.framework.xml
 D:\uzair\SEOAnalyser\SEOAnalyserComponents.Test\bin\Debug\NSubstitute.dll
 D:\uzair\SEOAnalyser\SEOAnalyserComponents.Test\bin\Debug\NSubstitute.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\NUnit3.TestAdapter.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\nunit.engine.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\nunit.engine.api.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\SEOAnalyserComponents.Test.dll.config
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\SEOAnalyserComponents.Test.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\SEOAnalyserComponents.Test.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\Castle.Core.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\NSubstitute.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\nunit.framework.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\SEOAnalyser.DTO.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\SEOAnlayser.Components.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\HtmlAgilityPack.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\SEOAnalyser.Utilities.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\SEOAnalyser.DTO.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\SEOAnlayser.Components.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\Castle.Core.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\NSubstitute.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\nunit.framework.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\nunit.framework.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\HtmlAgilityPack.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\SEOAnalyser.Utilities.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\Newtonsoft.Json.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\bin\Debug\Newtonsoft.Json.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\obj\Debug\SEOAnalyserComponents.Test.csprojResolveAssemblyReference.cache
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\obj\Debug\SEOAnalyserComponents.Test.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyserComponents.Test\obj\Debug\SEOAnalyserComponents.Test.pdb

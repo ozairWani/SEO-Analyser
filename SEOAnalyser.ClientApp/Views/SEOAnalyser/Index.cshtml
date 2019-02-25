@@ -11,14 +11,11 @@
     <link rel="stylesheet" href="/resources/demos/style.css">
     @*<script src="https://code.jquery.com/jquery-1.12.4.js"></script>*@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <script>
-      $( function() {
-        $( "#tabs" ).tabs();
-      } );
-    </script>
+ 
 </head>
 
 <h3>Enter below Text or URL for Analysis:</h3>
+
 <div>
     @Html.TextArea("txtSreach", null, new { @class = "form-control searchText",  @rows = 5 })
 
@@ -33,6 +30,7 @@
     <button class="btn btn-primary" type="submit" id="btnShow">Analyse</button>
     <input type="button" onclick="reset();" class="btn btn-primary" value="Reset!"></input>
 </div>
+
 <div id="errorDisplay">
     <div class="alert alert-danger" id="error">
           
@@ -83,7 +81,6 @@
     </div>
 </div>
 
-
 <div id="my-tab-content" class="tab-content">
     <div class="tab-pane  active" id="tab1">
         <br />
@@ -92,84 +89,9 @@
     </div> 
 </div>
 
-<script>
 
-    $(function () {
-        $('#errorDisplay').hide();
-    });
+<script src="~/Scripts/Views/Index.js"></script>
 
-    reset = function () {
-       
-        $('#SpotWords').prop("checked", true);
-        $('#Words').prop("checked", true);
-        $('#MetaTags').prop("checked", true);
-        $('#externalLinks').prop("checked", true);
-        $('#txtSreach').val('');
-    };
-   
-    $("#btnShow").click(function (e) {
 
-        $('#errorDisplay').hide();
-
-        var searchtext = $("#txtSreach").val();
-        if ($.trim(searchtext) == "") {
-            alert('Please enter Text or URL for Analysis!');
-            return;
-        }
-
-        var model = {
-            IsStopWord: $('#SpotWords').is(':checked'),
-            IsWordCount: $('#Words').is(':checked'),
-            IsMetaTags: $('#MetaTags').is(':checked'),
-            IsExternalLinks: $('#externalLinks').is(':checked'),
-            SearchText: $("#txtSreach").val()
-        }
-         
-
-        $.ajax({
-            url: 'SEOAnalyser/AnalyseData',
-            type: 'Get',
-            data: model,
-            success: function (data) {
-                //$.noConflict();
-                if (data.ResponseCode) {
-                    var content = data.Content;
-                    var jsonData = $.parseJSON(data.Content);
-                    var WordsCount = jsonData.WordsCount;
-                    var MetatagsCount = jsonData.MetatagsCount;
-                    var LinksCount = jsonData.LinksCount;
-
-                    $('#WordsCount tbody').empty();
-                    $('#MetaTag tbody').empty();
-                    $('#ExternalLinks tbody').empty();
-
-                    $.each(WordsCount, function (i, item) {
-                        var rows = "<tr>" + "<td>" + i + "</td>" + "<td>" + item + "</td>" + "</tr>";
-                        $('#WordsCount tbody').append(rows);
-                    });
-                    $.each(LinksCount, function (i, item) {
-                        var rows = "<tr>" + "<td>" + i + "</td>" + "<td>" + item + "</td>" + "</tr>";
-                        $('#ExternalLinks tbody').append(rows);
-                    });
-
-                    $.each(MetatagsCount, function (i, item) {
-                        var rows = "<tr>" + "<td>" + i + "</td>" + "<td>" + item + "</td>" + "</tr>";
-                        $('#MetaTag tbody').append(rows);
-                    });
-
-                    $('#WordsCount').DataTable();
-                    $('#ExternalLinks').DataTable();
-                    $('#MetaTag').DataTable();
-                }
-                else {
-                    console.log(data.Content);
-                    $('#errorDisplay').show();
-                    $('#error').text(data.Content);
-                }
-            } 
-        });
-    });
-
-</script>
 
 

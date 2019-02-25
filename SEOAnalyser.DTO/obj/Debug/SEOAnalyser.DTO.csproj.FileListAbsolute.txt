@@ -3,3 +3,8 @@ D:\uzair\SEOAnalyser\SEOAnalyser.DTO\bin\Debug\SEOAnalyser.DTO.pdb
 D:\uzair\SEOAnalyser\SEOAnalyser.DTO\obj\Debug\SEOAnalyser.DTO.csprojResolveAssemblyReference.cache
 D:\uzair\SEOAnalyser\SEOAnalyser.DTO\obj\Debug\SEOAnalyser.DTO.dll
 D:\uzair\SEOAnalyser\SEOAnalyser.DTO\obj\Debug\SEOAnalyser.DTO.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.DTO\bin\Debug\SEOAnalyser.DTO.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.DTO\bin\Debug\SEOAnalyser.DTO.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.DTO\obj\Debug\SEOAnalyser.DTO.csprojResolveAssemblyReference.cache
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.DTO\obj\Debug\SEOAnalyser.DTO.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.DTO\obj\Debug\SEOAnalyser.DTO.pdb

@@ -12,3 +12,7 @@ D:\uzair\SEOAnalyser\SEOAnalyser.Utilities\bin\Debug\SEOAnalyser.Utilities.dll
 D:\uzair\SEOAnalyser\SEOAnalyser.Utilities\bin\Debug\SEOAnalyser.Utilities.pdb
 D:\uzair\SEOAnalyser\SEOAnalyser.Utilities\obj\Debug\SEOAnalyser.Utilities.dll
 D:\uzair\SEOAnalyser\SEOAnalyser.Utilities\obj\Debug\SEOAnalyser.Utilities.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Utilities\bin\Debug\SEOAnalyser.Utilities.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Utilities\bin\Debug\SEOAnalyser.Utilities.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Utilities\obj\Debug\SEOAnalyser.Utilities.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Utilities\obj\Debug\SEOAnalyser.Utilities.pdb

@@ -32,7 +32,7 @@ namespace SEOAnlayser.Components.Providers.Implementation
 
         public IDictionary<string, int> GetWordsDetails(SEOParams seoParams)
         {
-            var words = Util.SplitSentenceToWords(seoParams.SearchText);
+            var words = Util.SplitSentenceToWords(seoParams.SearchText.ToLower());
 
             if (seoParams.IsStopWord)
             {

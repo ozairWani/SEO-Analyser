@@ -22,3 +22,10 @@ D:\uzair\SEOAnalyser\SEOAnalyser.Logger\bin\Debug\log4net.xml
 D:\uzair\SEOAnalyser\SEOAnalyser.Logger\obj\Debug\SEOAnalyser.Logger.csprojResolveAssemblyReference.cache
 D:\uzair\SEOAnalyser\SEOAnalyser.Logger\obj\Debug\SEOAnalyser.Logger.dll
 D:\uzair\SEOAnalyser\SEOAnalyser.Logger\obj\Debug\SEOAnalyser.Logger.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Logger\bin\Debug\SEOAnalyser.Logger.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Logger\bin\Debug\SEOAnalyser.Logger.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Logger\bin\Debug\log4net.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Logger\bin\Debug\log4net.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Logger\obj\Debug\SEOAnalyser.Logger.csprojResolveAssemblyReference.cache
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Logger\obj\Debug\SEOAnalyser.Logger.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnalyser.Logger\obj\Debug\SEOAnalyser.Logger.pdb

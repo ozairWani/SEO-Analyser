@@ -65,7 +65,7 @@ namespace SEOAnlayser.Components.Providers.Implementation
         {
             string webText = _webParserProvider.ParseWebToText(new Uri(seoParams.SearchText));
 
-            IEnumerable<string> words = Util.SplitSentenceToWords(webText);
+            IEnumerable<string> words = Util.SplitSentenceToWords(webText.ToLower());
 
             if (seoParams.IsStopWord)
             {

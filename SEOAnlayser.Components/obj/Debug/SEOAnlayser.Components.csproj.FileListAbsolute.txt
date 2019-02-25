@@ -38,3 +38,21 @@ D:\uzair\SEOAnalyser\SEOAnlayser.Components\bin\Debug\System.ValueTuple.xml
 D:\uzair\SEOAnalyser\SEOAnlayser.Components\obj\Debug\SEOAnlayser.Components.csprojResolveAssemblyReference.cache
 D:\uzair\SEOAnalyser\SEOAnlayser.Components\obj\Debug\SEOAnlayser.Components.dll
 D:\uzair\SEOAnalyser\SEOAnlayser.Components\obj\Debug\SEOAnlayser.Components.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\SEOAnlayser.Components.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\SEOAnlayser.Components.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\HtmlAgilityPack.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\Newtonsoft.Json.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\SEOAnalyser.DTO.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\SEOAnalyser.Utilities.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\System.ValueTuple.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\SEOAnalyser.DTO.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\SEOAnalyser.Utilities.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\HtmlAgilityPack.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\Newtonsoft.Json.pdb
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\Newtonsoft.Json.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\bin\Debug\System.ValueTuple.xml
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\obj\Debug\SEOAnlayser.Components.csprojResolveAssemblyReference.cache
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\obj\Debug\SEOAnlayser.Components.dll
+D:\Personal\R&D Projects\SEO-Analyser\SEOAnlayser.Components\obj\Debug\SEOAnlayser.Components.pdb

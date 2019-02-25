@@ -80,3 +80,4 @@ System.Net.WebException: The remote server returned an error: (404) Not Found.
    at SEOAnlayser.Components.Manager.Implementation.AnalyserManager.GetDetails(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnlayser.Components\Manager\Implementation\AnalyserManager.cs:line 28
    at SEOAnalyserAPI.Controllers.SEOAnalyserController.Analyse(SEOParams seoParams) in D:\uzair\SEOAnalyser\SEOAnalyser.API\Controllers\SEOAnalyserController.cs:line 31
 2019-02-25 01:14:19,413 [6] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 1:14:19 AM
+2019-02-25 10:12:40,986 [8] DEBUG SEOAnalyser.Logger.TextLogger - Post Api called sucess on 2/25/2019 10:12:40 AM
