@@ -60,7 +60,17 @@ The information will be show in each respective tab e.g, Words Count,Meta Tags a
   **localHost :http://www.seoanalyser.com:8080/swagger/ui/index#!**
 
   **Note** : Host Web Api on IIS and Change Host file on ur local machine  as shown in image below
-   
+  
+ - To make it more professional you can change web.config file in **SEOAnalyser.ClientApp**
+  
+ **Change from :**
+ 
+  - add key="apibaseUri" value="http://localhost:57898/"
+     
+  **Change To :**
+  
+   - add key="apibaseUri" value="www.seoanalyser.com:8080/"
+ 
    
 ![host](https://user-images.githubusercontent.com/34714293/53303903-d1628000-38aa-11e9-9014-bb7bc37ff58b.PNG)
 ==============================================================================================================================
