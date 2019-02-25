@@ -57,7 +57,7 @@ The information will be show in each respective tab e.g, Words Count,Meta Tags a
 
 **Testing SEO Analyser API using Swagger**
 
-  **localHost :http://www.seoanalyser.com:8080/swagger/ui/index#!
+  **localHost :http://www.seoanalyser.com:8080/swagger/ui/index#!**
 
   **Note** : Host Web Api on IIS and Change Host file on ur local machine  as shown in image below
    
