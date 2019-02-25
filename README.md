@@ -17,8 +17,8 @@ The information will be show in each respective tab e.g, Words Count,Meta Tags a
 
 **Technologies Used:-** 
 
-	-**Front End**: ASP.NET MVC
-	-**API** : ASP.NET web Api 2.0 , C# 
+-**Front End**: ASP.NET MVC
+-**API** : ASP.NET web Api 2.0 , C# 
 
 **Tools Used:-**
 
@@ -50,6 +50,7 @@ localHost :http://www.seoanalyser.com:8080/swagger/ui/index#!
 ![host](https://user-images.githubusercontent.com/34714293/53303903-d1628000-38aa-11e9-9014-bb7bc37ff58b.PNG)
 ==============================================================================================================================
 ![seoanalyserswaggerapi](https://user-images.githubusercontent.com/34714293/53303836-1fc34f00-38aa-11e9-8c32-9e114f671ea9.PNG)
+
 
 
 
