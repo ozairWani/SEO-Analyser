@@ -10,7 +10,7 @@ User submits a text in English or URL,the following SEO Analysis will happen
 
 - Filters out stop-words (e.g. ‘or’, ‘and’, ‘a’, ‘the’ etc), 
 - Calculates number of occurrences of each word, 
-- Number of occurrences on the page of each word listed in meta tags, 
+- Number of occurrences on the page of each keyword listed in meta tags, 
 - Number of external links in the text
 
 The information will be show in each respective tab e.g, Words Count,Meta Tags and External Links.
