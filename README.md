@@ -17,8 +17,8 @@ The information will be show in each respective tab e.g, Words Count,Meta Tags a
 
 **Technologies Used:-** 
 
--**Front End**: ASP.NET MVC
--**API** : ASP.NET web Api 2.0 , C# 
+- **Front End**: ASP.NET MVC
+- **API** : ASP.NET web Api 2.0 , C# 
 
 **Tools Used:-**
 
