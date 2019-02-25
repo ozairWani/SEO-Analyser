@@ -16,10 +16,12 @@ User submits a text in English or URL,the following SEO Analysis will happen
 The information will be show in each respective tab e.g, Words Count,Meta Tags and External Links.
 
 **Technologies Used:-** 
-	- **Front End**: ASP.NET MVC
-	- **API** : ASP.NET web Api 2.0 , C# 
+
+	-**Front End**: ASP.NET MVC
+	-**API** : ASP.NET web Api 2.0 , C# 
 
 **Tools Used:-**
+
 - Visual Studio 2015
 - PostMan
 
