@@ -52,7 +52,7 @@ The information will be show in each respective tab e.g, Words Count,Meta Tags a
  
  - **SEOAnalyser.ClientApp** : Its build using **Asp.Net MVC Framework**
  
- - **SEOAnalyser.API** : Its build using using **Asp.Net Web API FrameWork**
+ - **SEOAnalyser.API** : Its build using  **Asp.Net Web API FrameWork**
    
 
 **Testing SEO Analyser API using Swagger**
